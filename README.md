@@ -46,3 +46,6 @@ Here are some ideas to get you started:
 <li>https://blog.softwaretechit.com</li>
 <li>https://home.softwaretechit.com</li>
 
+**My Github Stats + Languages & Tools** <br/><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=softwaretechit&custom_title=softwaretechit&show_icons=true&include_all_commits=true&count_private=true&theme=default" alt="SoftwareTechIT github stats" />      <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=softwaretechit&layout=compact&theme=default" />
+

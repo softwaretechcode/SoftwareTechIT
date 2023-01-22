@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Crimson-Bold&size=40&color=github&center=true&vCenter=true&width=900&height=110&lines=A+Passionate+Python+Programmer;Full+Stack+Developer;Java+Developer;Angular+Developer;PHP,CSS,Bootstrap,HTML5,Javascript;Content+Creator)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Crimson-Bold&size=40&color=github&center=true&vCenter=true&width=900&height=110&lines=A+Passionate+Programmer;Full+Stack+Developer;Java+Developer;Angular+Developer;PHP,CSS,Bootstrap,HTML5,Javascript;Content+Creator)
 
 <!--
 **softwaretechit/SoftwareTechIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
